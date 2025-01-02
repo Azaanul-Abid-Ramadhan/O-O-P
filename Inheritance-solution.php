@@ -6,7 +6,7 @@
 
 // -- studi kasus: bagaimana menambahkan fitur baru dari yang sudah ada
 class produk {
-    // public=visiblity
+    // class parent
     public $judul,
            $penulis,
            $penerbit,
@@ -35,6 +35,7 @@ class produk {
 }
 
 class komik extends produk {
+    // class child
     public function getFullInfo(){
         $str = "Komik : {$this->getLabel()} | {$this->penulis} | Rp{$this->harga} | {$this->jmlHalaman} Halaman";
         return $str;
