@@ -20,7 +20,7 @@ class Produk {
     public function getLabel() {
         // this untuk mengambil property di dalam class
         return "$this->judul, $this->penerbit";
-
+        // this = instans yg bersangkutan
     }
 }
 
