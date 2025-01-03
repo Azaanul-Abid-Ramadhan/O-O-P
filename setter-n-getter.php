@@ -90,6 +90,7 @@ class infoProduk {
     }
 }
 
+// instansiasi
 $produk1 = new manga("Naruto", "Masashi Kishimoto", "Shonen Jump", 100000, 13.968);
 $produk2 = new gameMobile("Free Fire", "Forrest Li", "Garena", 0,);
 $produk3 = new produk();

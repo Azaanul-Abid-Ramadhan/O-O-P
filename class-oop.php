@@ -24,6 +24,7 @@ class Produk {
     }
 }
 
+// instansiasi
 $produk1 = new Produk();
 $produk1->judul = 'Bleach';
 var_dump($produk1);

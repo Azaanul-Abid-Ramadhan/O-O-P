@@ -50,6 +50,7 @@ class infoProduk {
     }
 }
 
+// instansiasi
 $produk1 = new produk("Naruto", "Masashi Kishimoto", "Shonen Jump", 100000, 13.968, "", "Manga");
 $produk2 = new produk("Free Fire", "Forrest Li", "Garena", 0, "",  "30menit", "Game mobile");
 $produk3 = new produk();
