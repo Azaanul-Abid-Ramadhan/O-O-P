@@ -1,8 +1,8 @@
 <?php 
 // visibility adalah konsep untuk mengatur property dan mathod pada class/pbject
 // 3 besar = public (dapat digunakan di mana saja, bahkan luar kelas),
-        //   protected (hanya digunakan dalam kelas dan turunnya sj), 
-        //   private (hanya digunakan di dalam kelas tertentu sj)
+          // protected (hanya digunakan dalam kelas dan turunnya sj), 
+          // private (hanya digunakan di dalam kelas tertentu sj)
 class produk {
     // public=visiblity
     public $judul,
