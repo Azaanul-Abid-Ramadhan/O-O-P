@@ -1,0 +1,2 @@
+sebuah cara untuk mengelompokkan program ke dalam pagkage sendiri
+bisa untuk membuat nama class yang sama
